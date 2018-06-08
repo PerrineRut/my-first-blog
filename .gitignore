@@ -1,0 +1,8 @@
+*.pyc
+__pycache__
+myvenv
+db.sqlite3
+/static
+.DS_Store
+
+#le slash signifie quon ne cherche pas static en recursif. seul le static dans le repertoire courant sera ignore
